@@ -4,7 +4,11 @@
 
 JOJO este o aplicație VR pe Meta Quest 2 care simulează un episod de paralizie în somn și te învață ce să faci în timpul lui. Episodul se termină doar când pulsul tău scade sau când miști un deget. Testăm într-un studiu pilot dacă simularea te învață mai mult decât un text sau un video.
 
-Proiect pentru cursul *Introduction to Mixed Realities*.
+
+## Membrii echipă:
+Tîrnovschi Manuela-Adela
+Popescu Ruxandra
+Onuț Ioana-Cristina
 
 ## Documente
 
